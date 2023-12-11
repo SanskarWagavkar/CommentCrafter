@@ -139,7 +139,6 @@ python-docx
 pytz
 pytz-deprecation-shim
 PyWavelets
-pywin32
 PyYAML
 pyzmq
 referencing
