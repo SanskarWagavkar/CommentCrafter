@@ -41,7 +41,7 @@ docx
 docx2pdf
 easyocr
 emoji
-en-core-web-sm
+spacy==3.7.2
 executing
 filelock
 Flask
